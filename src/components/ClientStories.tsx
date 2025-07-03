@@ -11,43 +11,43 @@ const ClientStories = () => {
     {
       id: 1,
       name: "Gyan & Ritu",
-      location: "Master Bedroom Wardrobe",
-      testimonial: "The wardrobe design exceeded our expectations! Every inch of space is utilized perfectly with custom shelving and compartments. The soft-close drawers and LED lighting make it feel premium. What we saw in the 3D design is exactly what we got - a wardrobe that's both beautiful and functional.",
+      location: "Modern Kitchen Design",
+      testimonial: "The kitchen design exceeded our expectations! Every inch of space is utilized perfectly with custom cabinets and smart storage solutions. The soft-close drawers and under-cabinet lighting make it feel premium. What we saw in the 3D design is exactly what we got - a kitchen that's both beautiful and functional.",
       image: "/lovable-uploads/testimonialsimages/429A3428 (1).webp"
     },
     {
       id: 2,
       name: "Nishant & Family",
-      location: "Walk-in Wardrobe Project",
-      testimonial: "Our walk-in wardrobe was delivered exactly on time! The quality of materials used is exceptional - from the premium laminates to the smooth drawer mechanisms. Six months later, everything still works perfectly. The organized sections for clothes, accessories, and shoes have transformed our daily routine.",
+      location: "Modular Kitchen Project",
+      testimonial: "Our modular kitchen was delivered exactly on time! The quality of materials used is exceptional - from the premium laminates to the smooth drawer mechanisms. Six months later, everything still works perfectly. The organized sections for utensils, spices, and appliances have transformed our cooking routine.",
       image: "/lovable-uploads/testimonialsimages/429A3431.webp"
     },
     {
       id: 3,
       name: "Manish & Family",
-      location: "Kids Room Wardrobe",
-      testimonial: "The kids' wardrobe design is brilliant! Height-adjustable shelves that grow with them, safety locks on drawers, and colorful interiors that they love. The team understood our needs perfectly and delivered without any hassle. Installation was quick and clean - exactly what busy parents need!",
+      location: "Family Kitchen Design",
+      testimonial: "The family kitchen design is brilliant! Child-safe cabinet locks, easy-to-reach storage for daily items, and a breakfast counter that kids love. The team understood our needs perfectly and delivered without any hassle. Installation was quick and clean - exactly what busy parents need!",
       image: "/lovable-uploads/testimonialsimages/429A3436.webp"
     },
     {
       id: 4,
       name: "Savita Family",
-      location: "Guest Room Wardrobe",
-      testimonial: "The sliding wardrobe doors save so much space in our guest room! The mirror finish makes the room look bigger, and the internal organization is perfect for guest essentials. Even after installation, the team helped us optimize the storage layout. Such attention to detail is rare!",
+      location: "Compact Kitchen Design",
+      testimonial: "The space-saving kitchen design maximizes every corner! The clever storage solutions and pull-out drawers make cooking so efficient. The granite countertop and stylish backsplash look amazing. Even after installation, the team helped us optimize the layout. Such attention to detail is rare!",
       image: "/lovable-uploads/testimonialsimages/reviewer1.eaf0bd71f2cf10471cb7253b0b125df9.webp"
     },
     {
       id: 5,
       name: "Amrita & Shanshank",
       location: "Homeowners in Bangalore",
-      testimonial: "The pricing was transparent from start to finish - no hidden costs! Our bedroom wardrobe's craftsmanship is impeccable with perfect edge banding and smooth finishes. The designer understood our storage needs perfectly and created a solution that maximizes every corner. Highly recommended!",
+      testimonial: "The pricing was transparent from start to finish - no hidden costs! Our kitchen's craftsmanship is impeccable with perfect edge banding and smooth finishes. The designer understood our cooking needs perfectly and created a solution that maximizes every corner. Highly recommended!",
       image: "/lovable-uploads/testimonialsimages/reviewer2.46a5814f1ec1bded67d5d2b1ce5f58bb.webp"
     },
     {
       id: 6,
       name: "Anand's Family",
-      location: "Luxury Wardrobe Project",
-      testimonial: "Our luxury wardrobe with automated lighting and soft-close mechanisms was delivered exactly as promised! Single point of contact made the process seamless. The attention to detail - from the velvet-lined jewelry drawers to the tie racks - shows true craftsmanship. Delivered on time, which is exceptional!",
+      location: "Premium Kitchen Design",
+      testimonial: "Our premium kitchen with automated lighting and soft-close mechanisms was delivered exactly as promised! Single point of contact made the process seamless. The attention to detail - from the spice pull-outs to the built-in appliances - shows true craftsmanship. Delivered on time, which is exceptional!",
       image: "/lovable-uploads/testimonialsimages/reviewer3.9d801a979586ccd7db7ac745e8ffe596.webp"
     }
   ];
@@ -89,10 +89,10 @@ const ClientStories = () => {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-            Bangalore Wardrobe Stories
+            Bangalore Kitchen Stories
           </h2>
           <p className="text-gray-600">
-            Our clients share their custom wardrobe experiences with Creative Designs
+            Our clients share their custom kitchen experiences with Creative Designs
           </p>
         </div>
         

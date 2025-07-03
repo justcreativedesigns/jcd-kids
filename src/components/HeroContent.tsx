@@ -5,7 +5,7 @@ const HeroContent = () => {
   return (
     <div className="text-center mb-4 lg:mb-0">
       <h1 className="text-2xl sm:text-3xl md:text-3xl lg:text-4xl xl:text-5xl font-bold text-gray-900 mb-2 md:mb-3 leading-tight animate-fade-in">
-        Best Wardrobe Designers
+        Best Kitchen Designers
         <br />
         <span className="text-red-600">In Bangalore</span>
       </h1>
@@ -17,15 +17,15 @@ const HeroContent = () => {
       <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 justify-center items-center animate-fade-in text-xs sm:text-sm">
         <div className="flex items-center space-x-1.5 text-gray-600">
           <div className="w-1.5 h-1.5 bg-green-500 rounded-full"></div>
-          <span>Custom Wardrobes</span>
+          <span>Modular Kitchens</span>
         </div>
         <div className="flex items-center space-x-1.5 text-gray-600">
           <div className="w-1.5 h-1.5 bg-green-500 rounded-full"></div>
-          <span>Space Optimization</span>
+          <span>Smart Storage</span>
         </div>
         <div className="flex items-center space-x-1.5 text-gray-600">
           <div className="w-1.5 h-1.5 bg-green-500 rounded-full"></div>
-          <span>Premium Materials</span>
+          <span>Premium Finishes</span>
         </div>
       </div>
     </div>
