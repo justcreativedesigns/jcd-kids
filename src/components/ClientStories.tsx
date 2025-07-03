@@ -11,43 +11,43 @@ const ClientStories = () => {
     {
       id: 1,
       name: "Gyan & Ritu",
-      location: "Modern Kitchen Design",
-      testimonial: "The kitchen design exceeded our expectations! Every inch of space is utilized perfectly with custom cabinets and smart storage solutions. The soft-close drawers and under-cabinet lighting make it feel premium. What we saw in the 3D design is exactly what we got - a kitchen that's both beautiful and functional.",
+      location: "Creative Kids Room Design",
+      testimonial: "The kids room design exceeded our expectations! Every corner is designed with safety and creativity in mind. The custom study desk with built-in storage and colorful LED lighting make it feel magical. What we saw in the 3D design is exactly what we got - a room that's both beautiful and perfect for our child.",
       image: "/lovable-uploads/testimonialsimages/429A3428 (1).webp"
     },
     {
       id: 2,
       name: "Nishant & Family",
-      location: "Modular Kitchen Project",
-      testimonial: "Our modular kitchen was delivered exactly on time! The quality of materials used is exceptional - from the premium laminates to the smooth drawer mechanisms. Six months later, everything still works perfectly. The organized sections for utensils, spices, and appliances have transformed our cooking routine.",
+      location: "Themed Kids Room Project",
+      testimonial: "Our themed kids room was delivered exactly on time! The quality of materials used is exceptional - from the safe, non-toxic paints to the rounded furniture edges. Six months later, everything still looks perfect. The organized sections for toys, books, and clothes have made cleanup so much easier.",
       image: "/lovable-uploads/testimonialsimages/429A3431.webp"
     },
     {
       id: 3,
       name: "Manish & Family",
-      location: "Family Kitchen Design",
-      testimonial: "The family kitchen design is brilliant! Child-safe cabinet locks, easy-to-reach storage for daily items, and a breakfast counter that kids love. The team understood our needs perfectly and delivered without any hassle. Installation was quick and clean - exactly what busy parents need!",
+      location: "Functional Kids Room Design",
+      testimonial: "The kids room design is brilliant! Height-adjustable furniture that grows with our child, safety features throughout, and a cozy reading nook they absolutely love. The team understood our needs perfectly and delivered without any hassle. Installation was quick and clean - exactly what busy parents need!",
       image: "/lovable-uploads/testimonialsimages/429A3436.webp"
     },
     {
       id: 4,
       name: "Savita Family",
-      location: "Compact Kitchen Design",
-      testimonial: "The space-saving kitchen design maximizes every corner! The clever storage solutions and pull-out drawers make cooking so efficient. The granite countertop and stylish backsplash look amazing. Even after installation, the team helped us optimize the layout. Such attention to detail is rare!",
+      location: "Space-Saving Kids Room",
+      testimonial: "The space-saving kids room design maximizes every corner! The clever storage solutions and multi-functional furniture make organization so easy. The vibrant colors and fun wall decals look amazing. Even after installation, the team helped us optimize the space. Such attention to detail is rare!",
       image: "/lovable-uploads/testimonialsimages/reviewer1.eaf0bd71f2cf10471cb7253b0b125df9.webp"
     },
     {
       id: 5,
       name: "Amrita & Shanshank",
-      location: "Homeowners in Bangalore",
-      testimonial: "The pricing was transparent from start to finish - no hidden costs! Our kitchen's craftsmanship is impeccable with perfect edge banding and smooth finishes. The designer understood our cooking needs perfectly and created a solution that maximizes every corner. Highly recommended!",
+      location: "Happy Parents in Bangalore",
+      testimonial: "The pricing was transparent from start to finish - no hidden costs! Our kids room's craftsmanship is impeccable with perfect safety features and smooth finishes. The designer understood our child's needs perfectly and created a space that maximizes both fun and functionality. Highly recommended!",
       image: "/lovable-uploads/testimonialsimages/reviewer2.46a5814f1ec1bded67d5d2b1ce5f58bb.webp"
     },
     {
       id: 6,
       name: "Anand's Family",
-      location: "Premium Kitchen Design",
-      testimonial: "Our premium kitchen with automated lighting and soft-close mechanisms was delivered exactly as promised! Single point of contact made the process seamless. The attention to detail - from the spice pull-outs to the built-in appliances - shows true craftsmanship. Delivered on time, which is exceptional!",
+      location: "Premium Kids Room Design",
+      testimonial: "Our premium kids room with smart lighting and interactive features was delivered exactly as promised! Single point of contact made the process seamless. The attention to detail - from the custom built-ins to the educational wall panels - shows true craftsmanship. Delivered on time, which is exceptional!",
       image: "/lovable-uploads/testimonialsimages/reviewer3.9d801a979586ccd7db7ac745e8ffe596.webp"
     }
   ];
@@ -89,10 +89,10 @@ const ClientStories = () => {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-            Bangalore Kitchen Stories
+            Bangalore Kids Room Stories
           </h2>
           <p className="text-gray-600">
-            Our clients share their custom kitchen experiences with Creative Designs
+            Our clients share their custom kids room experiences with Creative Designs
           </p>
         </div>
         

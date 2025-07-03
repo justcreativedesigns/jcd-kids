@@ -2,6 +2,10 @@ import React from 'react';
 import { ChefHat, Shirt, Sofa, Baby, Paintbrush } from 'lucide-react';
 const InteriorSolutions = () => {
   const solutions = [{
+    icon: Baby,
+    title: 'Kids Room',
+    description: 'Creative, safe & functional designs that grow with your child'
+  }, {
     icon: ChefHat,
     title: 'Kitchen',
     description: 'Modern kitchen designs with smart storage solutions'
@@ -13,10 +17,6 @@ const InteriorSolutions = () => {
     icon: Sofa,
     title: 'Furniture',
     description: 'Premium furniture for every room in your home'
-  }, {
-    icon: Baby,
-    title: 'Kids Room',
-    description: 'Creative and safe designs for your little ones'
   }, {
     icon: Paintbrush,
     title: 'Wallpaper',
